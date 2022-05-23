@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/eunsoo/Desktop/study/3dv_tutorial/src/bundle_adjustment.hpp
+opencv2/opencv.hpp
+/home/eunsoo/Desktop/study/3dv_tutorial/src/opencv2/opencv.hpp
+ceres/ceres.h
+/home/eunsoo/Desktop/study/3dv_tutorial/src/ceres/ceres.h
+ceres/rotation.h
+/home/eunsoo/Desktop/study/3dv_tutorial/src/ceres/rotation.h
+
+/home/eunsoo/Desktop/study/3dv_tutorial/src/bundle_adjustment_global.cpp
+bundle_adjustment.hpp
+/home/eunsoo/Desktop/study/3dv_tutorial/src/bundle_adjustment.hpp
+

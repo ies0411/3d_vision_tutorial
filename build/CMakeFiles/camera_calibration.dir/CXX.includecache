@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/eunsoo/Desktop/study/3dv_tutorial/src/camera_calibration.cpp
+opencv2/opencv.hpp
+/home/eunsoo/Desktop/study/3dv_tutorial/src/opencv2/opencv.hpp
+fstream
+/home/eunsoo/Desktop/study/3dv_tutorial/src/fstream
+

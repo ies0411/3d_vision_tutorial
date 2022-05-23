@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/eunsoo/Desktop/study/3dv_tutorial/src/vo_epipolar.cpp
+opencv2/opencv.hpp
+/home/eunsoo/Desktop/study/3dv_tutorial/src/opencv2/opencv.hpp
+
